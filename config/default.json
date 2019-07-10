@@ -1,0 +1,4 @@
+{
+  "mongoConn": "mongodb+srv://Man_user_01:root123@myfirstcluster-pwawk.mongodb.net/TaskAp?retryWrites=true",
+  "jwtSecret": "secret"
+}
